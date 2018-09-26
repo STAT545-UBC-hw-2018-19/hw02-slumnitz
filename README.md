@@ -8,8 +8,8 @@ In this assignment I will explore a dataset and begin to establish a workflow fo
 
 purpose | format
 ---------|--------
-[hw02-exercise]() | .md
-[R markdown source code]() | .Rmd
+[hw02-exercise](https://github.com/STAT545-UBC-students/hw02-slumnitz/blob/master/hw02-exercise.md) | .md
+[R markdown source code](https://github.com/STAT545-UBC-students/hw02-slumnitz/blob/master/hw02-exercise.Rmd) | .Rmd
 
 
 
